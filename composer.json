@@ -1,0 +1,13 @@
+{
+    "name": "andre/zf2-memleak-test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andriy Komm",
+            "email": "a.komm@integrate-marketingpool.de"
+        }
+    ],
+    "require": {
+        "zendframework/zendframework": "^2.5"
+    }
+}
